@@ -13,3 +13,15 @@ It aggregates and analyses the live data available on COVID-19 to help the users
 
 <b>Dataset API for country-wise data:</b> https://corona.lmao.ninja/v2/countries
 
+## Screens
+<table>
+  <tr>
+    <td><img src='1_Global_Cases.jpg' height='600px'></td>
+    <td><img src='2_Countries.jpg' height='600px'></td>
+  </tr>
+  <tr>
+    <td><img src='3_India_Cases.jpg' height='600px'></td>
+    <td><img src='4_USA_Cases.jpg' height='600px'></td>
+  </tr>
+</table>
+ 
